@@ -1,16 +1,16 @@
 # testwebsite
 
 - [blah](#blah)
-  - [sub1](#sub1)
-  - [sub2](#sub2)
+  - [sub1](#sub 1)
+  - [sub2](#sub 2)
 
 
 
 # blah
 lajksdfasdf
 
-## sub1
+## sub 1
 aslkdfjasdlf
 
-### sub2
+### sub 2
 lkajsdfl
